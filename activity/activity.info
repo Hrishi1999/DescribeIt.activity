@@ -1,8 +1,8 @@
 [Activity]
-name = HelloWorld
-activity_version = 6
-bundle_id = org.sugarlabs.HelloWorld
-exec = sugar-activity activity.HelloWorldActivity
+name = DescribeIt
+activity_version = 1
+bundle_id = org.sugarlabs.DescribeIt
+exec = sugar-activity describe.DescribeItActivity
 icon = activity-helloworld
 license = GPLv2+
-repository = https://github.com/sugarlabs/hello-world-fork.git
+repository = https://github.com/Hrishi1999/DescribeIt.activity.git
